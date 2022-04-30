@@ -8,3 +8,6 @@ lunan0320/lunan0320 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320&hide=issues,contribs&count_private=true&theme=onedark)](https://github.com/lunan0320/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunan0320&layout=compact)](https://github.com/lunnan0320/github-readme-stats)
