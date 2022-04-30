@@ -7,4 +7,4 @@
 lunan0320/lunan0320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320)](https://github.com/lunan0320/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320&hide=prs&count_private=true&theme=onedark)](https://github.com/lunan0320/github-readme-stats)
