@@ -1,3 +1,5 @@
+![image](https://img.shields.io/badge/lunan0320-repos-blue.svg)
+
 - 👋 Hi, Welcome to the GitHub of lunan0320.
 - 👀 I’m interested in cyber security technology.
 - 🌱 I’m a student who is greatly interested in computer technology.
