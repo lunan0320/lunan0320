@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&hide=issues,contribs&count_private=true&theme=dracula)](https://github.com/lunan0320/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula)](https://github.com/lunan0320/github-readme-stats)
 
 
 
