@@ -28,19 +28,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunan0320&layout=compact&hide=html,css)](https://github.com/lunnan0320/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunan0320&layout=compact&hide=html,css)](https://github.com/lunnan0320/github-readme-stats)-->
 
 
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True)](https://github.com/lunan0320/github-readme-stats)
 
-
-
-
-
-
---
-- 👉 [GitHub Blog](http://www.lunan0320.cn/)
-	
-- 👉 [CSDN Blog](https://blog.csdn.net/qq_51927659)
+- 👉 [GitHub Blog](http://www.lunan0320.cn/)     - 👉 [CSDN Blog](https://blog.csdn.net/qq_51927659)
