@@ -1,9 +1,26 @@
 ![image](https://img.shields.io/badge/lunan0320-repos-blue.svg)
+# Hi there, I'm lunan 👋
 
-- 👋 Hi, Welcome to the GitHub of lunan0320.
-- 👀 I’m interested in cyber security technology.
-- 🌱 I’m a student who is greatly interested in computer technology.
-- 📫 I'm glad to communicate with you~
+## Cybersecurity Student | Federated Learning Researcher | Privacy Tech Enthusiast
+
+As a passionate student in the field of Cybersecurity, my research is driven by a fascination with Federated Learning, the acceleration of distributed encrypted training, and fine-tuning of large language models with a strong focus on privacy-preserving techniques such as Homomorphic Encryption and Differential Privacy.
+
+Outside the digital realm, I channel my energy into swimming and fitness.
+
+### What I'm working on 🚀
+- Improving efficiency and security in Federated Learning systems.
+- Exploring advanced encryption methods for privacy in AI, including Homomorphic Encryption.
+- Investigating Differential Privacy applications in fine-tuning large language models.
+
+### Tech Stack 🛠️
+- Python, PyTorch, Cpp, Java, C
+- Homomorphic Encryption Libraries
+- Differential Privacy Frameworks
+- CUDA & Parallel Computing Platforms
+
+Thanks for stopping by, and please feel free to check out my repositories below!
+
+---
 
 <!---
 lunan0320/lunan0320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
