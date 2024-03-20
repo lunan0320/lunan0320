@@ -18,10 +18,18 @@ Outside the digital realm, I channel my energy into swimming and fitness.
 - Differential Privacy Frameworks
 - CUDA & Parallel Computing Platforms
 
-<a href="https://github.com/lunan0320/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True" />
-</a>
-<img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important" />
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/lunan0320/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important" />
+    </td>
+  </tr>
+</table>
 
 
 
