@@ -13,14 +13,27 @@ Outside the digital realm, I channel my energy into swimming and fitness.
 - Investigating Differential Privacy applications in fine-tuning large language models.
 
 ### Tech Stack 🛠️
-- Python, PyTorch, Cpp, Java, C
+<table>
+<tr>
+<td>
+
+- Python, PyTorch, C++, Java, C
 - Homomorphic Encryption Libraries
 - Differential Privacy Frameworks
 - CUDA & Parallel Computing Platforms
 
-Thanks for stopping by, and please feel free to check out my repositories below!
+</td>
+<td>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True)](https://github.com/lunan0320/github-readme-stats)
+
+</td>
+</tr>
+</table>
+
+Thanks for stopping by, and please feel free to check out my repositories below!
+
+
 
 ---
 
