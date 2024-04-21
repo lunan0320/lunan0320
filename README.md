@@ -26,7 +26,7 @@ Outside the digital realm, I channel my energy into swimming and fitness.
       </a>
     </td>
     <td>
-      <img align="center" src="[https://stats.justsong.cn/api/csdn?id=qq_51927659](https://blog.csdn.net/qq_51927659)" style="box-shadow:none !important" />
+      <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important" />
     </td>
   </tr>
 </table>
