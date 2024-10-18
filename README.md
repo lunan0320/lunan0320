@@ -1,7 +1,7 @@
 ![image](https://img.shields.io/badge/lunan0320-repos-blue.svg)
 # Hi there, I'm lunan0320 👋
 
-## Federated Learning Researcher | Privacy Tech Enthusiast
+## LLM Security | Federated Learning Researcher | Privacy Tech Enthusiast
 
 As a passionate student in the field of Cybersecurity, my research is driven by a fascination with Federated Learning, the acceleration of distributed encrypted training, and fine-tuning of large language models with a strong focus on privacy-preserving techniques such as Homomorphic Encryption and Differential Privacy.
 
