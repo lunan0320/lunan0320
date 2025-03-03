@@ -22,7 +22,7 @@ Outside the digital realm, I channel my energy into swimming and fitness.
   <tr>
     <td>
       <a href="https://github.com/lunan0320/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True" />
       </a>
     </td>
     <td>
