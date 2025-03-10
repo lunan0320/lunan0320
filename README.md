@@ -8,9 +8,11 @@ As a passionate student in the field of Cybersecurity, my research is driven by 
 Outside the digital realm, I channel my energy into swimming and fitness.
 
 ### What I'm working on 🚀
+- Enthusiastic about LLM security eg., LLM backdoor attack or jailbreak.
+- Investigating Differential Privacy applications in fine-tuning large language models.
 - Improving efficiency and security in Federated Learning systems.
 - Exploring advanced encryption methods for privacy in AI, including Homomorphic Encryption.
-- Investigating Differential Privacy applications in fine-tuning large language models.
+
 
 ### Tech Stack 🛠️
 - Python, PyTorch, C++, Java, C
@@ -48,6 +50,6 @@ You can click the Preview link to take a look at your changes.
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunan0320&layout=compact&hide=html,css)](https://github.com/lunnan0320/github-readme-stats)-->
 <!-- <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important">-->
 
-- 👉 [GitHub Blog](http://www.lunan0320.cn/)     
+<!--- 👉 [GitHub Blog](http://www.lunan0320.cn/)-->     
 
 - 👉 [CSDN Blog](https://blog.csdn.net/qq_51927659)
