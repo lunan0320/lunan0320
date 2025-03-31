@@ -30,20 +30,13 @@ Outside the digital realm, I channel my energy into swimming and fitness.
     <td>
       <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659?spm=1010.2135.3001.5343" style="box-shadow:none !important" />
     </td>
-    <td>
-      <a href="https://clustrmaps.com/site/1c591"  title="ClustrMaps">
-        <img src="//www.clustrmaps.com/map_v2.png?d=L5XoaCanahKIo8CRSazPtcJcX8RCTPAg32M3I3VIZyg&cl=ffffff" />
-      </a>
-    </td>
   </tr>
 </table>
 
 
-
 Thanks for stopping by, and please feel free to check out my repositories below!
 
-
-
+![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=L5XoaCanahKIo8CRSazPtcJcX8RCTPAg32M3I3VIZyg&cl=ffffff) 
 ---
 
 <!---
