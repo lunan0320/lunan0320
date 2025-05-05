@@ -36,7 +36,7 @@ Outside the digital realm, I channel my energy into swimming and fitness.
 
 Thanks for stopping by, and please feel free to check out my repositories below!
 
-![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=L5XoaCanahKIo8CRSazPtcJcX8RCTPAg32M3I3VIZyg&cl=ffffff) 
+![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=L5XoaCanahKIo8CRSazPtcJcX8RCTPAg32M3I3VIZyg&cl=ffffff&t=tt) 
 ---
 
 <!---
