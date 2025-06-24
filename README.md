@@ -1,23 +1,18 @@
 ![image](https://img.shields.io/badge/lunan0320-repos-blue.svg) ![](https://komarev.com/ghpvc/?username=lunan0320&label=PROFILE+VIEWS)
 # Hi there, I'm lunan0320 👋
 
-## LLM Security | Federated Learning Researcher | Privacy Tech Enthusiast
-
-As a passionate student in the field of Cybersecurity, my research is driven by a fascination with Federated Learning, the acceleration of distributed encrypted training, and fine-tuning of large language models with a strong focus on privacy-preserving techniques such as Homomorphic Encryption and Differential Privacy.
+## Agent and LLM Security | Federated Learning Researcher | Privacy Tech Enthusiast
+As a passionate researcher in cybersecurity, I explore a broad range of topics in **trustworthy AI**, including privacy-preserving federated learning (FL), with a focus on techniques such as Homomorphic Encryption (HE) and Differential Privacy (DP). Recently, my interests have extended to the security of intelligent agents and large language models (LLMs). I’m always open to collaboration—feel **free to reach out** if you’re interested in similar directions.
 
 Outside the digital realm, I channel my energy into swimming and fitness.
 
 ### What I'm working on 🚀
-- Enthusiastic about LLM security eg., LLM backdoor attack or jailbreak.
-- Investigating Differential Privacy applications in fine-tuning large language models.
-- Improving efficiency and security in Federated Learning systems.
-- Exploring advanced encryption methods for privacy in AI, including Homomorphic Encryption.
-
+- Exploring the security of large language models (LLMs), including backdoor attacks, jailbreak techniques, and emerging threats in LLM-powered agents.
+- Investigating the use of Differential Privacy (DP) in the fine-tuning of LLMs to enhance privacy guarantees.
+- Enhancing the efficiency and robustness of federated learning systems, with a focus on privacy-preserving techniques such as Homomorphic Encryption (HE) and DP.
 
 ### Tech Stack 🛠️
 - Python, PyTorch, C++, Java, C
-- Homomorphic Encryption Libraries
-- Differential Privacy Frameworks
 - CUDA & Parallel Computing Platforms
 
 <table>
