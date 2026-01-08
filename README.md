@@ -18,11 +18,6 @@ Outside the digital realm, I channel my energy into swimming and fitness.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/lunan0320/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True" />
-      </a>
-    </td>
-    <td>
       <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659?spm=1010.2135.3001.5343" style="box-shadow:none !important" />
     </td>
   </tr>
@@ -41,7 +36,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunan0320&layout=compact&hide=html,css)](https://github.com/lunnan0320/github-readme-stats)-->
-<!-- <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important">-->
+<!-- <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_51927659" style="box-shadow:none !important">        <td>
+      <a href="https://github.com/lunan0320/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=lunan0320&show_icons=true&issues=true&hide=contribs&count_private=true&theme=dracula&hide_rank=True" />
+      </a>
+    </td> -->
 
 <!--- 👉 [GitHub Blog](http://www.lunan0320.cn/)-->     
 
