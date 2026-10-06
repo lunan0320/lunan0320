@@ -1,19 +1,25 @@
 ![image](https://img.shields.io/badge/lunan0320-repos-blue.svg) ![](https://komarev.com/ghpvc/?username=lunan0320&label=PROFILE+VIEWS)
 # Hi there, I'm lunan0320 👋
 
-## Agent and LLM Security | Federated Learning Researcher | Privacy Tech Enthusiast
-As a passionate researcher in cybersecurity, I explore a broad range of topics in **trustworthy AI**, including privacy-preserving federated learning (FL), with a focus on techniques such as Homomorphic Encryption (HE) and Differential Privacy (DP). Recently, my interests have extended to the security of intelligent agents and large language models (LLMs). I’m always open to collaboration—feel **free to reach out** if you’re interested in similar directions.
+**LLM security | Agent security | AI4Science**
 
-Outside the digital realm, I channel my energy into swimming and fitness.
+I'm interested in understanding the security risks of AI systems and exploring how AI can support scientific discovery.
 
-### What I'm working on 🚀
-- Exploring the security of large language models (LLMs), including backdoor attacks, jailbreak techniques, and emerging threats in LLM-powered agents.
-- Investigating the use of Differential Privacy (DP) in the fine-tuning of LLMs to enhance privacy guarantees.
-- Enhancing the efficiency and robustness of federated learning systems, with a focus on privacy-preserving techniques such as Homomorphic Encryption (HE) and DP.
+## Research interests
 
-### Tech Stack 🛠️
-- Python, PyTorch, C++, Java, C
-- CUDA & Parallel Computing Platforms
+- **LLM security:** Understanding the safety and security of language models, with a particular interest in **recursive self-improvement (RSI)** and the risks it may introduce.
+- **Agent security:** Exploring how agent memory and interactions can be manipulated, and how to make agent behavior more robust.
+- **AI for Science (AI4Science):** A newer direction I'm exploring, focused on how AI can support scientific research and discovery.
+
+## Toolbox
+
+Python · PyTorch · C/C++ · Java · CUDA
+
+## Beyond code
+
+Outside research, I enjoy swimming and fitness.
+
+
 
 <table>
   <tr>
@@ -24,12 +30,9 @@ Outside the digital realm, I channel my energy into swimming and fitness.
 </table>
 
 
-Thanks for stopping by, and please feel free to check out my repositories below!
-
+<!---
 ![ClustrMaps](https://www.clustrmaps.com/map_v2.png?d=L5XoaCanahKIo8CRSazPtcJcX8RCTPAg32M3I3VIZyg&cl=ffffff&t=tt) 
 ---
-
-<!---
 lunan0320/lunan0320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -45,4 +48,8 @@ You can click the Preview link to take a look at your changes.
 <!--- 👉 [GitHub Blog](http://www.lunan0320.cn/)-->     
 
 - 👉 [CSDN Blog](https://blog.csdn.net/qq_51927659)
+
+Always happy to exchange ideas about AI security and scientific discovery.
+
+Thanks for stopping by, and please feel free to check out my repositories below!
 
